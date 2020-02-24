@@ -1,4 +1,4 @@
-var e = [true, false, true, true];
+var e = [true, false, true, true]; //example data array
 var flip = function (dataArray) {
     var a = dataArray;
     for(var i = 0; i < a.length; i++) {
@@ -20,5 +20,5 @@ var flip = function (dataArray) {
     }
     dataArray = a;
 }
-flip(e);
+flip(e); //example
 console.log(e);
