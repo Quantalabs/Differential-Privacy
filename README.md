@@ -13,4 +13,4 @@ In this version, the algorithm is basically fliping a coin and if it lands on he
 
 # Credits
 
-[quantum9innovation](https://github.com/Quantum9innovation) for giving me the idea of coding a differential privacy algorithm.
+[@quantum9innovation](https://github.com/Quantum9innovation) for giving me the idea of coding a differential privacy algorithm.
