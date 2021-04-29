@@ -11,6 +11,4 @@ In this version, the algorithm is basically fliping a coin and if it lands on he
 
 ![Image showing how this version of differential privacy works](https://miro.medium.com/max/1082/1*oOkcVZUn4hrsxompg4Ik_g.png)
 
-# Credits
-
-[@quantum9innovation](https://github.com/Quantum9innovation) for giving me the idea of coding a differential privacy algorithm.
+**Coding in python? Check out [DiffPriv](https://github.com/Quantalabs/DiffPriv)**
